@@ -22,7 +22,7 @@ This project features an Excel-based dashboard designed to monitor and analyze t
 ## 📈 Tools Used
 - Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
 
-# 👤 Author
+# #👤 Author
 - [Muli Alekhya] – Data Analyst | Student | Infrastructure Research Enthusiast
 
 ---
