@@ -15,7 +15,7 @@ This project features an Excel-based dashboard designed to monitor and analyze t
 - Clean, interactive charts and slicers
 
 ## 🔧 Data Preprocessing
-- Removed invalid/missing value
+- Removed invalid/missing values
 - Standardized columns and formats
 - Added derived fields for completion %, balance, and utilization
 
