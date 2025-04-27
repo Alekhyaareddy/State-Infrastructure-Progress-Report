@@ -23,7 +23,7 @@ This project features an Excel-based dashboard designed to monitor and analyze t
 - Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
 
 ##👤 Author
-- [Muli Alekhya] – Data Analyst | Student | Infrastructure Research Enthusiast
+- [Muli Alekhya – Data Analyst | Student | Infrastructure Research Enthusiast
 
 ---
 
