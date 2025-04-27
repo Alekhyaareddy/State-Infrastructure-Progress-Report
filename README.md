@@ -19,7 +19,7 @@ This project features an Excel-based dashboard designed to monitor and analyze t
 - Standardized columns and formats
 - Added derived fields for completion %, balance, and utilization
 
-## 📈 Tools Used
+#📈 Tools Used
 - Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
 
 # #👤 Author
