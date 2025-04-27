@@ -27,6 +27,6 @@ This project features an Excel-based dashboard designed to monitor and analyze t
 
 ---
 
-Feel free to fork, star ⭐, or contribute!!
+Feel free to fork, star ⭐, or contribute!
 
 An Excel-based dashboard to track state-wise rural road infrastructure progress. Includes data cleaning, derived metrics, and visual insights on project completion, pending work, and financial utilization. Ideal for policy analysis and performance monitoring.
